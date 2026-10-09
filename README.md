@@ -30,7 +30,7 @@ A SQL case study on a hypermarket's customer, transaction and product data, answ
 
 ## Files
 
-- `hypermarket_sql_analysis.sql`: all 10 queries
+- `HyperMarket.sql`: all 10 queries
 
 ## Key Takeaway
 
